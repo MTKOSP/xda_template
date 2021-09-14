@@ -1,58 +1,56 @@
-[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/header.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MTKOSP/xda_template/master/art/header.png[/IMG]
 [CENTER]
-CipherOS is a Android Custom OS, Based On AOSP & Fueled by Lineage, Striving to Provide its Users , A Clean , Bloat free & Sturdy Experience with Minimal Customisation ! 
+MediaTeK Open Source Project is a custom ROM which wants to bring to every MTK device an OSS development. Without mattering if device have a public kernel source, if needs patches etc, this project is also fueled by LOS, we focus on security and performance.
 
-[CODE]/* Your warranty is now void or maybe not?
+[CODE]
+/* Your warranty is now void:
 *
 * I am not responsible for bricked devices, dead SD cards,
 * thermonuclear war, or you getting fired because the alarm app failed. Please
 * do some research if you have any concerns about features included in this ROM
 * before flashing it! YOU are choosing to make these modifications, and if
 * you point the finger at me for messing up your device, I will laugh at you.
-*/[/CODE]
+*/
+[/CODE]
 
-With the release of CipherOS INFERNO , We Ensure that Every OFFICIAL Device remains Up-to-date with latest Patches , Asap its been released by Google !
+With the release of MTKOSP The Awaken , We Ensure that Every OFFICIAL Device remains Up-to-date with latest Patches , Asap its been released by Google !
 
-[SIZE=6][B]Download it from [/B][/SIZE][URL='https://cipheros.github.io'][SIZE=6][B]Our Website![/B][/SIZE][/URL]
+[SIZE=6][B]Download it from [/B][/SIZE][URL='https://sourceforge.net/projects/mtkosp/'][SIZE=6][B]Our Sourceforge![/B][/SIZE][/URL]
 
-[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/team.png[/IMG][/CENTER]
+[IMG]https://raw.githubusercontent.com/MTKOSP/xda_template/master/art/team.png[/IMG][/CENTER]
 The people working towards bringing you this release are:
 [LIST]
-[*][URL='https://github.com/techyminati']Aryan Sinha[/URL] 
-[*][URL='https://github.com/radeon7']Lokesh Vazirani[/URL]
-[*][URL='https://github.com/CyberJalagam']Jaishanav Prasad[/URL]
-[*][URL='https://github.com/SparXFusion']Sakthivel Nadar[/URL]
-[*][URL='https://github.com/JamieHoSzeYui']Jamie Ho[/URL]
-[*][URL='https://github.com/bhenom69']Bhenom[/URL]
+[*][URL='https://github.com/jmpfbmx']Jose[/URL] 
+[*][URL='https://github.com/sarthakroy2002']Sarthak Roy[/URL] 
+[*][URL='https://github.com/techyminati']Arian[/URL] 
+[*][URL='https://github.com/Ruben1863']Ruben[/URL] 
+[*][URL='https://github.com/Bengris32']Ben[/URL] 
+[*][URL='https://github.com/Maanush2004']Maanush Putcha[/URL]
+[*][URL='https://github.com/L303']L_300[/URL]
+[*][URL='https://github.com/gaganmalvi']Gagan Malvi[/URL]
+[*][URL='https://github.com/kardebayan']Debayan Kar[/URL]
 [/LIST]
-[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/installation.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MTKOSP/xda_template/master/art/installation.png[/IMG]
 
 
-[B]1.[/B] Download the ROM, Magisk (Optional).
+[B]1.[/B] Download the ROM, GAPPs (Optional), Magisk (Optional).
 [B]2.[/B] Wipe System, Data, Dalvik, Cache.
 [B]3.[/B] Flash the ROM, GApps (Optional), Magisk (Optional).
 [B]4.[/B] Reboot and Enjoy.
 
-[B]GAPPS ARE PREINCLUDED[/B]
-
-[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/credits.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MTKOSP/xda_template/master/art/credits.png[/IMG]
 
 We would like to thank the following ROMs, because if they weren't here, we couldn't be there too <3
 [LIST]
 [*][URL='https://github.com/LineageOS'][B]LineageOS[/B][/URL]
 [*][URL='https://github.com/ProjectSakura'][B]ProjectSakura[/B][/URL]
-[*][URL='https://github.com/POSP'][B]POSP[/B][/URL]
-[*][URL='https://github.com/SuperiorOS'][B]SuperiorOS[/B][/URL]
-[*][URL='https://github.com/PixelExperience'][B]Pixel Experience[/B][/URL]
+[*][URL='https://github.com/CipherOS'][B]CipherOS[/B][/URL]
+[*][URL='https://github.com/ForkLineageOS'][B]ForkLineageOS[/B][/URL]
+[*][URL='https://github.com/RevengeOS'][B]RevengeOS[/B][/URL]
 [*][URL='https://github.com/Styx-Project'][B]The Styx Project[/B][/URL]
-[*][URL='https://github.com/Fusion-OS'][B]Fusion OS[/B][/URL]
 [/LIST]
 
 
 [CENTER][SIZE=6]Source Code:[/SIZE]
-[SIZE=4][URL='https://github.com/CipherOS']ROM Source[/URL]
-[URL='https://github.com/CipherOS-Devices']Device Source[/URL]
-[URL='your kernel source link here']Kernel Source[/URL][/SIZE][/CENTER]
-
-[CENTER][SIZE=6]Donate:[/SIZE]
-[SIZE=4][URL='https://paypal.me/aspltd']PayPal[/URL][/SIZE][/CENTER]
+[SIZE=4][URL='https://github.com/MTKOSP']ROM Source[/URL]
+[URL='https://github.com/MTKOSP-Devices']Devices' Source[/URL]
