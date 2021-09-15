@@ -16,6 +16,7 @@ MediaTeK Open Source Project is a custom ROM which wants to bring to every MTK d
 With the release of MTKOSP The Awaken , We Ensure that Every OFFICIAL Device remains Up-to-date with latest Patches , Asap its been released by Google !
 
 [SIZE=6][B]Download it from [/B][/SIZE][URL='https://sourceforge.net/projects/mtkosp/'][SIZE=6][B]Our Sourceforge![/B][/SIZE][/URL]
+[SIZE=6][B]Support group: [/B][/SIZE][URL='https://t.me/MTKOSPCommunity'][SIZE=6][B]MTKOSP Community[/B][/SIZE][/URL]
 
 [IMG]https://raw.githubusercontent.com/MTKOSP/xda_template/master/art/team.png[/IMG][/CENTER]
 The people working towards bringing you this release are:
